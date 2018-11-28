@@ -15,3 +15,5 @@
 //     return view('welcome');
 // });
 Route::get('/lishasha','LssController@index');
+Route::get('/xvchao','XcController@index');
+
